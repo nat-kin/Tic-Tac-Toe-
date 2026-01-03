@@ -1,2 +1,2 @@
-# Tic-Tac-Toe
+# tic-tac-toe
 Python Game 1 
